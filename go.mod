@@ -1,3 +1,3 @@
-module insidelabs-git.mathworks.com/ryanzi/gogreeting
+module github.com/skylinezy/greetings
 
 go 1.24.4
